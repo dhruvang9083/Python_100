@@ -1,0 +1,5 @@
+x=int(input())
+for i in range()
+l=x.split(",")
+print (l)    
+print (tuple(l))
