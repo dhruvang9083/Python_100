@@ -1,3 +1,5 @@
+# word sort
+
 words=str(input())
 words=words.split(',')
 words.sort()
